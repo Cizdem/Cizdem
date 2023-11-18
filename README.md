@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Ed Haliti but everyone calls me Cizdem
-- 👀 I’m interested in programming.
-- 📫 You can email me on edhaliti@gmail.com
+
